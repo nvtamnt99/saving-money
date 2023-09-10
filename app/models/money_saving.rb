@@ -1,0 +1,2 @@
+class MoneySaving < ApplicationRecord
+end
